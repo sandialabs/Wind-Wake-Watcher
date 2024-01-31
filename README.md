@@ -5,3 +5,5 @@ This software enables the user to produce Google Earth visualizations of turbine
 SCR# 2247
 
 Martin, Shawn
+
+There is a zip file under Releases.
